@@ -5,14 +5,14 @@ I am a student at Richcfield Graduate Institute of Technology, studying a Bachel
 
 During my Work Integrated Learning (WIL) programme, i hope to gain practical experience in the IT industry, improve my networking and practical skills, learn from experienced professionals, develop my communication and teamwork skills and prepare for a successful career in Information Technology.
 
-**Role:** Developer  
+**Role:** System Developer  
 **Placement:** Tobb Technologies  
 **Period:** Three months  
-**Supervisor:** 
+**Supervisor:** Bernard Sibanda
 
 ## Professional introduction
 
-I am a Developer who completed a three-month Work Integrated Learning placement at Tobb Technologies. During my placement, I worked on web development, software testing, user interface design, Linux, and blockchain-related activities. This portfolio documents my contributions and the evidence for my work.
+I am a System developer who completed a three-month Work Integrated Learning placement at Tobb Technologies. During my placement, I worked on web development, software testing, user interface design, Linux, and blockchain-related activities. This portfolio documents my contributions and the evidence for my work.
 
 ## At a glance
 
