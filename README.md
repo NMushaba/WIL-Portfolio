@@ -28,7 +28,7 @@ I am a Developer who completed a three-month Work Integrated Learning placement 
 - [Projects](Projects/README.md)
 - [Documentation](Documentation/README.md)
 - [Final Report](Final-Report/README.md)
-
+  
 ## Projects
 
 - **Coxy Wallet AI Music Contest:** JavaScript features and responsive design for a Cardano wallet contest.
