@@ -14,6 +14,18 @@ During my Work Integrated Learning (WIL) programme, i hope to gain practical exp
 
 I am a System developer who completed a three-month Work Integrated Learning placement at Tobb Technologies. During my placement, I worked on web development, software testing, user interface design, Linux, and blockchain-related activities. This portfolio documents my contributions and the evidence for my work.
 
+## Featured work
+
+### Zonke Revamp
+
+![Updated Zonke homepage](Projects/Zonke-Revamp/screenshots/homepage-updated.png)
+
+![Updated Zonke page banner](Projects/Zonke-Revamp/screenshots/updated-page-banner.png)
+
+### Tobb Technologies Service Catalogue
+
+[View the service catalogue project](Projects/Tobb-Technologies-Service-Catalogue/README.md)
+
 ## At a glance
 
 | Area | Summary |
