@@ -2,7 +2,7 @@
 
 ## Placement overview
 
-I completed a three-month Work Integrated Learning placement at Tobb Technologies as a Developer. F.S Kato the facilitator and project manager,  supervised my work.
+I completed a three-month Work Integrated Learning placement at Tobb Technologies as a System developer. F.S Kato the facilitator and project manager,  supervised my work.
 
 ## Summary of work
 
