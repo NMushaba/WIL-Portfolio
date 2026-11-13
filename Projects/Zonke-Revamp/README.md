@@ -25,10 +25,11 @@ I contributed visual updates to the website by changing images, colours, and tex
 
 ## Screenshots
 
-Add your screenshots to `Projects/Zonke-Revamp/screenshots/`, then link them here. For example:
-
-- `![Updated homepage](screenshots/homepage.png)`
-
+- [Updated homepage](screenshots/homepage-updated.png)
+- [Updated page banner](screenshots/updated-page-banner.png)
+- [Updated listing section](screenshots/updated-listing-section.png)
+- [Updated newsletter section](screenshots/updated-newsletter-section.png)
+  
 ## Source code
 
 - [Zonke Revamp repository](https://github.com/FredrickKcode/zonke-revamp) (private repository)
