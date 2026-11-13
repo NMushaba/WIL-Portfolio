@@ -1,7 +1,7 @@
 # Day 8 — 31 August 2026
 ## Selecting the AI Donation Tracker project
 
-The WIL facilitator assigned participants to develop an application that uses artificial intelligence and the Cardano blockchain to address a real-world problem. I contributed to brainstorming possible application ideas and discussing which problem the project should address. The group selected an AI Donation Tracker as the project concept.
+The   CTO Mr bernard Sibanda assigned participants to develop an application that uses artificial intelligence and the Cardano blockchain to address a real-world problem. I contributed to brainstorming possible application ideas and discussing which problem the project should address. The group selected an AI Donation Tracker as the project concept.
 
 My contribution was part of the project-planning stage: I helped develop and narrow the idea before implementation began. The concept brought together donation tracking, AI support, and Cardano-related functionality.
 
